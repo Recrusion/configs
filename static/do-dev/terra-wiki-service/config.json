@@ -2,5 +2,6 @@
   "user": "{{user}}",
   "password": "{{password}}",
   "db_name": "{{db_name}}",
-  "db_password": "{{db_password}}"
+  "db_password": "{{db_password}}",
+  "url": "{{qweqweqwe}}"
 }
